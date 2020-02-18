@@ -1,3 +1,1 @@
-nothing to read here
-just to test how getcontent works
-checking for master
+{name: "John", age: 31, city: "New York"}
