@@ -1,2 +1,1 @@
-nothing to read here
-just to test how getcontent works
+{name: "John", age: 31, city: "New York"}
